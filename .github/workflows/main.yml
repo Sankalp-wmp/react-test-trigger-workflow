@@ -1,4 +1,4 @@
-name: Daily-trigger
+name: Daily-trigge
 on:
   schedule:
     - cron: '0 */6 * * *'
